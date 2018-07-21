@@ -1,6 +1,11 @@
 # PyDataAmsterdam2018
 Contents of the workshop ["Hands-on introduction to Deep Learning with Keras and Tensorflow"](https://pydata.org/amsterdam2018/schedule/) I gave at PyData Amsterdam 2018.
 
+# workshop video
+Contents of the workshop ["Introduction to Deep Learning with Keras and Tensorflow (2018)
+"](https://www.youtube.com/watch?v=45MbmHQ5iMY)
+
+
 #### Create the conda environment
 ```
 conda env create -f environment.yml
